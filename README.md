@@ -26,3 +26,4 @@ It was announced in February 2016, in three flavours. Release date was April 201
 ## Device picture
 
 ![Xiaomi Mi 5](http://xiaomi-mi.com/uploads/CatalogueImage/xiaomi-mi-5-black-01_14051_1456305832.jpg "Xiaomi Mi 5 in black")
+# gemini
